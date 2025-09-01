@@ -1,0 +1,11 @@
+openai-whisper
+spacy==3.7.4
+sentence-transformers
+faiss-cpu
+streamlit
+jinja2
+pandas
+numpy
+
+
+
