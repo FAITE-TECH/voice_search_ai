@@ -1,0 +1,29 @@
+{
+  "transcription": "What are your vegan options?",
+  "nlp": {
+    "text": "What are your vegan options?",
+    "entities": [],
+    "lemmas": [
+      "what",
+      "be",
+      "your",
+      "vegan",
+      "option"
+    ],
+    "tokens": [
+      "What",
+      "are",
+      "your",
+      "vegan",
+      "options"
+    ]
+  },
+  "matches": [
+    {
+      "index": 0,
+      "distance": 1.4324477910995483,
+      "question": " salads",
+      "answer": " and plant-based smoothies."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "all": ["Coffee", "Tea", "Sandwich", "Vegan Salad", "Gluten-Free Brown Rice Bowl"],
+    "vegan": ["Vegan Salad", "Oat Milk Latte", "Plant-Based Smoothie"],
+    "gluten-free": ["Gluten-Free Brown Rice Bowl", "Fruit Bowl"]
+  },
+  "faq": {
+    "hours": "We are open from 8 AM to 9 PM, Monday through Saturday, and 9 AM to 6 PM on Sunday.",
+    "delivery": "Yes, we offer free home delivery for orders above $20 within 5km."
+  }
+}

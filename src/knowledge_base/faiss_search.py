@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import faiss
-from sentence_transformers import SentenceTransformers
+from sentence_transformers import SentenceTransformer
 from typing import List, Tuple
 
 class FAQSearch:
@@ -12,7 +12,7 @@ class FAQSearch:
 
         self.faq_df["question"] = self.faq_df["question"].astype(str)
         self.faq_df["answer"] = self.faq_df["answer"].astype(str)
-        self.model = SentenceTransformers(self.embedding_model_name)
+        self.model = SentenceTransformer(self.embedding_model_name)
         self.index = None
         self._build_index()
 

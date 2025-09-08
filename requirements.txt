@@ -6,6 +6,10 @@ streamlit
 jinja2
 pandas
 numpy
+fastapi
+uvicorn[standard]
+python-multipart      # required for file uploads
+pydantic
 
 
 

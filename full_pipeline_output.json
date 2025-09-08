@@ -1,0 +1,11 @@
+{
+  "transcription": "What are your vegan options?",
+  "intent": "menu_query",
+  "entities": {
+    "diet": "vegan"
+  },
+  "faq_matches": [
+    " salads:  and plant-based smoothies."
+  ],
+  "response": "Vegan options: Vegan Salad, Oat Milk Latte, Plant-Based Smoothie.\nYou might also find these helpful:\n1.  salads:  and plant-based smoothies."
+}
